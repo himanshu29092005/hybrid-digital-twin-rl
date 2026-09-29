@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+scikit-learn
+gymnasium
+streamlit
+matplotlib
+stable-baselines3   # pulls torch; needed only for RL training
